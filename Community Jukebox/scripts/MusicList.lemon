@@ -8,4 +8,5 @@ constant array<string> CommunityJukebox_Music =
     "CaptainUnderpantsMusic",
     "GrandpaThemeSong",
     "IceRidgeOfNoltia"
+    "firesonictheme"
 }
